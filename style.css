@@ -1,0 +1,54 @@
+Nav {
+   Text-align:center;
+   Font-family: "Verdana", Helvetica, sans serif;
+}
+
+Body {
+   Background-color: mistyrose;
+   Margin: 30px 30px 30px 30px;
+}
+
+
+
+H1 {
+   Font-family:"Times New Roman", Times, serif;
+   Text-align:center;
+   Font-size: xx-large;
+}
+
+H3 {
+  Text-align: center;
+  Margin: 20px 20px 20px 20px;
+}
+
+P {
+   Font-family:"Verdana", Helvetica, sans serif;
+  
+}
+
+Ul {
+   Font-family: "Verdana", Helvetica, sans serif;
+}
+
+Img{
+   Margin:auto;
+   Display: block;
+}
+
+Img{
+  Width: 50%;
+  Margin:auto;
+  Display: block;
+}
+
+#hp  {
+float: right;    
+ margin: 0 0 0 30px;
+ Width: 20%;
+
+}
+
+H4 {
+  Text-align: center;
+  Margin: 20px 20px 20px 20px;
+}
